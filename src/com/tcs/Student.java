@@ -6,6 +6,7 @@ public class Student {
 		
 		System.out.println("Student data");
 		System.out.println("Student data updated");
+		System.out.println("Student data updated 3");
 
 	}
 
